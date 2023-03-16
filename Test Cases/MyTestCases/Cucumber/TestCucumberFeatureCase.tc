@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCucumberFeatureCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e79c102-eb12-4475-8eb7-f197034f2ead</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b60d5f51-435a-4556-978d-85def6133aab</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/URLs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64ed2f1f-6791-4ffa-b65d-65905dfc3000</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://desworkflow.ecosistemasinfo.com/Oportunidad'</defaultValue>
+      <description></description>
+      <id>64ed2f1f-6791-4ffa-b65d-65905dfc3000</id>
+      <masked>false</masked>
+      <name>Workflow_URL</name>
+   </variable>
+</TestCaseEntity>

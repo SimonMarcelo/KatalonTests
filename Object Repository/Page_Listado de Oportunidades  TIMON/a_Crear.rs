@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Crear</name>
+   <tag></tag>
+   <elementGuidId>7cd4d33e-c8e8-4de9-a4ec-92b7f6e531c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Crear')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9213fd75-8e8a-4f1e-8701-9eb31720e8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary</value>
+      <webElementGuid>aafa133c-5d98-49eb-9940-bdeca0ee8597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> /Oportunidad/Create</value>
+      <webElementGuid>698f2278-ae14-40e2-8658-d437e946aa1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Crear </value>
+      <webElementGuid>74569e9f-92a6-4334-a903-66c6142c5135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;nav-md&quot;]/div[@class=&quot;container body&quot;]/div[@class=&quot;main_container&quot;]/div[@class=&quot;right_col&quot;]/div[@class=&quot;card mt-3&quot;]/div[@class=&quot;card-body&quot;]/a[@class=&quot;btn btn-outline-primary&quot;]</value>
+      <webElementGuid>7e4a60af-ba8e-4373-a1f6-902e22907bf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Crear')]</value>
+      <webElementGuid>ac7dcd61-b903-4562-8d83-a5ecc30b2e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listado de Oportunidades'])[1]/following::a[1]</value>
+      <webElementGuid>36e8e360-86e9-4923-9816-b2a77c245d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel'])[1]/preceding::a[1]</value>
+      <webElementGuid>88579352-b9d2-410e-a783-1a55463fdca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Busca todas las oportunidades?'])[1]/preceding::a[1]</value>
+      <webElementGuid>b458f24a-bf58-4e4b-8837-9f848099fe19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear']/parent::*</value>
+      <webElementGuid>aab0a0b4-ad80-4e9d-94ae-6b7edb3bb90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' /Oportunidad/Create')]</value>
+      <webElementGuid>6e7ab4d7-194c-40ba-b804-954a2ae222a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>6ebeedc0-d3e8-4ad6-83a1-023d16433cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = ' /Oportunidad/Create' and (text() = ' Crear ' or . = ' Crear ')]</value>
+      <webElementGuid>a708dc39-cf50-4f0b-a3c6-fd1b14af0704</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

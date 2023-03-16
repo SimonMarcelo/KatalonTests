@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SeleccioneODMRFP</name>
+   <tag></tag>
+   <elementGuidId>6e8a86d8-5c54-44ac-931b-6ac7f4dad86a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='IdTipoOportunidad']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#IdTipoOportunidad</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>215a27a1-3779-40af-a942-118e2c8be0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c5209fad-3325-401b-8a4e-e8b9fd97cf54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cb625cbf-9f89-4fc0-9763-9ae38a36af5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>El campo Tipo Oportunidad es obligatorio</value>
+      <webElementGuid>79c2e079-727a-4dab-810a-2eabb1f26e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>IdTipoOportunidad</value>
+      <webElementGuid>4b709afe-d3bb-40bd-ad24-10c5805e492c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>IdTipoOportunidad</value>
+      <webElementGuid>927f3b8b-d17d-45da-9265-8a10422b75b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccione
+ODM
+RFP
+</value>
+      <webElementGuid>003f184f-0bbb-4601-b071-9ff89eddc60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IdTipoOportunidad&quot;)</value>
+      <webElementGuid>0ca50126-56ea-47cc-9340-f8d196b4ac25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='IdTipoOportunidad']</value>
+      <webElementGuid>faa1b721-ce18-4e95-90cf-7b8a4044388f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Oportunidad'])[1]/following::select[1]</value>
+      <webElementGuid>69b81a41-20f0-4437-be75-fc158138442f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nueva oportunidad'])[1]/following::select[1]</value>
+      <webElementGuid>e6d5b2c2-a88b-4987-ab09-51ea1cb3ef1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oportunidad Relacionada'])[1]/preceding::select[1]</value>
+      <webElementGuid>a8158641-1921-4bd1-89f6-6f761b0a9024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Es Licitación?'])[1]/preceding::select[1]</value>
+      <webElementGuid>482d07fa-53cb-4dff-b32e-29d75b9e9452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e8cb615c-01ed-4c5d-a3f3-126b8683e9b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'IdTipoOportunidad' and @name = 'IdTipoOportunidad' and (text() = 'Seleccione
+ODM
+RFP
+' or . = 'Seleccione
+ODM
+RFP
+')]</value>
+      <webElementGuid>7abbab7c-d6c3-42cc-a886-ff1b7fd7c809</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

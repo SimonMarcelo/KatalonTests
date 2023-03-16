@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_siguiente</name>
+   <tag></tag>
+   <elementGuidId>b17bb617-00b6-414a-a135-df5d5ac499d8</elementGuidId>
+   <imagePath>Object Repository/Page_Inicia sesin Cuentas de Google/siguiente.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Object Repository/Page_Inicia sesin Cuentas de Google/siguiente.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body.nyoS7c.UzCXuf.EIlDfe:nth-child(2) div.H2SoFe.LZgQXe.TFhTPc:nth-child(1) div.RAYh1e.LZgQXe.qmmlRd div.xkfVF div.Aa1VU div.JhUD8d.SQNfcc.vLGJgb div.zWl5kd div.DRS7Fe.bxPAYd.k6Zj8d div.pwWryf.bxPAYd:nth-child(2) div.Wxwduf.Us7fWe.JhUD8d div.zQJV3 div.dG5hZc div.qhFLie div.FliLIb.DL0QTb div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.nCP5yc.AjY5Oe.DuMIQc.LQeN7.qIypjc.TrZEUc.lw1w4b > span.VfPpkd-vQzf8d</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/span[contains(text(),'Siguiente')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6822263a-d7dc-48df-911a-b6efcd4d22c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-RLmnJb</value>
+      <webElementGuid>31227d46-6a30-4d1d-99ce-da7845248191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/span[contains(text(),'Siguiente')]</value>
+      <webElementGuid>223e980c-918e-4405-bf05-aee88a9e3788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>identifierNext</value>
+      <webElementGuid>fc2d58d6-8ef8-4d25-9d6a-83d031258e87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='identifierNext']/div/button/div[3]</value>
+      <webElementGuid>f7a12341-f932-4db7-93a4-f29e85a170f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/div[3]</value>
+      <webElementGuid>8a553b53-f35b-4e3c-b8bd-fc9e8dedd18a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

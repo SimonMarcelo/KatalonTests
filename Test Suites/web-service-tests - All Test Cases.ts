@@ -15,7 +15,7 @@
       <guid>28a02fc5-00a1-40cf-9a4b-ad8847be59bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create a new user</testCaseId>
+      <testCaseId>Test Cases/Certificación KATALON/Create a new user</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>b29e6e15-9644-43a0-aaf0-99da7e54f7fb</id>
@@ -25,6 +25,7 @@
          </iterationEntity>
          <testDataId>Data Files/ListUser</testDataId>
       </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -60,7 +61,8 @@
       <guid>ed2e6354-f2d0-43dd-9ff7-bb978536040e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Find user by ID</testCaseId>
+      <testCaseId>Test Cases/Certificación KATALON/Find user by ID</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>

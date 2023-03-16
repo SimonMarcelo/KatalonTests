@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Simon, Marcelo_far fa-trash-alt red-text</name>
+   <tag></tag>
+   <elementGuidId>ecb2a018-d959-48fc-9ec0-051502902fca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='oportunidades']/tbody/tr[-1]/td[14]/span/a[4]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ef844e91-1b6a-4614-81cc-57b04dd28e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-trash-alt red-text</value>
+      <webElementGuid>e906b2bd-bffa-44be-8bc6-d62b21da657c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oportunidades&quot;)/tbody[1]/tr[6]/td[14]/span[1]/a[@class=&quot;text-danger&quot;]/i[@class=&quot;far fa-trash-alt red-text&quot;]</value>
+      <webElementGuid>9fe0f3ce-1ad5-415a-8c01-8dda09441d2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='oportunidades']/tbody/tr[6]/td[14]/span/a[4]/i</value>
+      <webElementGuid>7d523a36-6ec0-4721-bf0c-b9535d247c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[14]/span/a[4]/i</value>
+      <webElementGuid>84cd1427-484a-49ff-bfb5-54e760c61e59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

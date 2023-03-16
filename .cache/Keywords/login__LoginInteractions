@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B40A77159B31E61D1A056F1EF2D12950",
+  "keywordClasses": [
+    {
+      "name": "login.LoginInteractions",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

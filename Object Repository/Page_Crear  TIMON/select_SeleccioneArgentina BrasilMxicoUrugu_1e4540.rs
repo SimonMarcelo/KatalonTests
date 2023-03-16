@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SeleccioneArgentina BrasilMxicoUrugu_1e4540</name>
+   <tag></tag>
+   <elementGuidId>437b8c90-437b-46f6-a953-ae70bc036696</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='IdPais']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#IdPais</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cc6666f3-2ab2-43a1-b1c4-de9e99aa4043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>930469b4-9068-4516-8e63-1ffc76178b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>48e65da3-377c-4b29-a7f4-07b0fb9a183c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>El campo País Facturación es obligatorio</value>
+      <webElementGuid>0c73d585-f4df-49a6-8072-d1b56fca3e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>IdPais</value>
+      <webElementGuid>bd2d5f56-edaf-44b5-b342-97648017f0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>IdPais</value>
+      <webElementGuid>74d0a747-4ffe-4d64-99dd-cfcab6f013d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccione
+Argentina 
+Brasil
+México
+Uruguay
+Chile
+EEUU
+Paraguay
+Colombia
+Sudafrica
+</value>
+      <webElementGuid>b5a22cba-8174-4abc-9506-95b6761892fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IdPais&quot;)</value>
+      <webElementGuid>fd17bd71-03fc-4b1c-9fc0-f67631acbc47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='IdPais']</value>
+      <webElementGuid>a364e9c4-f695-4c8c-b587-b84a48cb31b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País Facturación'])[1]/following::select[1]</value>
+      <webElementGuid>63351d4f-52a2-42e6-8c2d-5d8c417e43a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado'])[1]/following::select[1]</value>
+      <webElementGuid>2b5a9a6d-ac33-43b9-a393-53e2bb5f75ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moneda'])[1]/preceding::select[1]</value>
+      <webElementGuid>7ef65ae5-b7c8-4d5d-a890-d4375459e940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Toma clientes de NetSuite?'])[1]/preceding::select[2]</value>
+      <webElementGuid>2addfab7-d4c4-4ded-8866-10a383a1f126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>1e8a3177-9124-4e3d-9233-7f85952c4d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'IdPais' and @name = 'IdPais' and (text() = 'Seleccione
+Argentina 
+Brasil
+México
+Uruguay
+Chile
+EEUU
+Paraguay
+Colombia
+Sudafrica
+' or . = 'Seleccione
+Argentina 
+Brasil
+México
+Uruguay
+Chile
+EEUU
+Paraguay
+Colombia
+Sudafrica
+')]</value>
+      <webElementGuid>4d9f089b-2dcb-4c29-9dca-9718c88dc381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
