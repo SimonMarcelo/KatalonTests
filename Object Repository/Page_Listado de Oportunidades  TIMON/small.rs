@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small</name>
+   <tag></tag>
+   <elementGuidId>254c6a3e-fa7e-4800-916c-d58d599c1aad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>bd870b15-aa41-470a-94c7-8d63d77f6c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;nav-md&quot;]/div[@class=&quot;container body&quot;]/div[@class=&quot;main_container&quot;]/div[@class=&quot;right_col&quot;]/div[@class=&quot;card mt-3&quot;]/div[@class=&quot;card-body&quot;]/label[2]/span[@class=&quot;switchery switchery-default&quot;]/small[1]</value>
+      <webElementGuid>59e9dea6-ffbb-4e19-93de-7d1da55e1ff0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>2e15eb5b-81bf-415c-9d75-6bbee49a303c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

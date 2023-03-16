@@ -15,6 +15,38 @@ Característica: Flujo de trabajo de oportunidades
       |           usuario         |         contraseña       |
       | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
 
+
+
+
+
+
+  Esquema del escenario: Nueva Oportunidad a Preventa 
+
+    Cuando el usuario ingresa sus credenciales de manera correcta <usuario> y <contraseña>
+    Entonces se visualiza que ingresó correctamente a la plataforma
+    Y envía la nueva oportunidad a Preventa
+    
+    Ejemplos: 
+      |           usuario         |         contraseña       |
+      | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
       
       
-      
+  Esquema del escenario: Nueva Oportunidad de Preventa a Comercial
+  	Cuando el usuario ingresa sus credenciales de manera correcta <usuario> y <contraseña>
+    Entonces se visualiza que ingresó correctamente a la plataforma
+    Y envía la nueva oportunidad de Preventa a Comercial
+    
+    Ejemplos: 
+      |           usuario         |         contraseña       |
+      | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
+  	
+  	
+  Esquema del escenario: Edición de nueva oportunidad
+    Cuando el usuario ingresa sus credenciales de manera correcta <usuario> y <contraseña>
+    Entonces se visualiza que ingresó correctamente a la plataforma
+     
+    
+    Ejemplos: 
+      |           usuario         |         contraseña       |
+      | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
+  	

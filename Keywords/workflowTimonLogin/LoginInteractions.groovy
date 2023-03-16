@@ -1,4 +1,4 @@
-package workflowTimon
+package workflowTimonLogin
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -39,7 +39,7 @@ public class LoginInteractions {
 		WebUI.sendKeys(findTestObject('Page_Inicia sesin Cuentas de Google/input_Se han producido demasiados intentos _9b645a'),
 				Keys.chord(Keys.ENTER))
 	}
-	
+
 	def verifyCorrectLogin() {
 		WebUI.verifyElementPresent(findTestObject('Page_Listado de Oportunidades  TIMON/a_Crear'), 5)
 	}

@@ -1,4 +1,4 @@
-package workflowTimon
+package workflowTimonLogin
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 
@@ -48,7 +48,7 @@ import navigate.NavigateTo
 public class LoginSteps {
 
 	LoginTasks loginTasks = new LoginTasks()
-	
+
 	@When ("el usuario ingresa sus credenciales de manera correcta (.*) y (.*)")
 	public void login_with_valid_credentials(String username, String password) {
 		//LoginTasks loginTasks = new LoginTasks()

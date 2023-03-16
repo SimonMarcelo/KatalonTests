@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>LoginYAltaNuevaOportunidad</name>
+   <name>01_LoginYAltaNuevaOportunidad</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>8456ca02-a189-4606-9c3c-209c06ab2cc8</testCaseGuid>
