@@ -12,8 +12,8 @@ Característica: Flujo de trabajo de oportunidades
     Y crea una nueva oportunidad completando el formulario correspondiente 
     
     Ejemplos: 
-      |           usuario         |         contraseña       |
-      | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
+      |            usuario           |         contraseña       |
+      | ecosistemas.prueba@gmail.com | cavWDAa0EbnZjXBQ12k5kg== |
 
 
 
@@ -27,8 +27,8 @@ Característica: Flujo de trabajo de oportunidades
     Y envía la nueva oportunidad a Preventa
     
     Ejemplos: 
-      |           usuario         |         contraseña       |
-      | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
+      |            usuario           |         contraseña       |
+      | ecosistemas.prueba@gmail.com | cavWDAa0EbnZjXBQ12k5kg== |
       
       
   Esquema del escenario: Nueva Oportunidad de Preventa a Comercial
@@ -37,8 +37,8 @@ Característica: Flujo de trabajo de oportunidades
     Y envía la nueva oportunidad de Preventa a Comercial
     
     Ejemplos: 
-      |           usuario         |         contraseña       |
-      | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
+      |            usuario           |         contraseña       |
+      | ecosistemas.prueba@gmail.com | cavWDAa0EbnZjXBQ12k5kg== |
   	
   	
   Esquema del escenario: Edición de nueva oportunidad
@@ -47,6 +47,6 @@ Característica: Flujo de trabajo de oportunidades
      
     
     Ejemplos: 
-      |           usuario         |         contraseña       |
-      | msimon@ecosistemas.com.ar | xeCmpPM2QBmDTlt+zppesg== |
+      |            usuario           |         contraseña       |
+      | ecosistemas.prueba@gmail.com | cavWDAa0EbnZjXBQ12k5kg== |
   	
