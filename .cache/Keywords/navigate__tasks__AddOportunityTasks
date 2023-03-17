@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "0F49366D34348D874AAE9F379512DA68",
+  "keywordFileContentHash": "0F33654E9D469F4338351A89835FDD3F",
   "keywordClasses": [
     {
       "name": "navigate.tasks.AddOportunityTasks",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

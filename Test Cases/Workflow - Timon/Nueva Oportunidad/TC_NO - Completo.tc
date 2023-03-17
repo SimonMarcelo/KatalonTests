@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_NO - Completo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8456ca02-a189-4606-9c3c-209c06ab2cc8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8fd830e8-2d42-4f56-bd2e-2a7f9edc6c56</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/URLs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9156f78c-06be-40c7-93a9-fbd8c801675b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://desworkflow.ecosistemasinfo.com/Oportunidad'</defaultValue>
+      <description></description>
+      <id>9156f78c-06be-40c7-93a9-fbd8c801675b</id>
+      <masked>false</masked>
+      <name>Workflow_URL</name>
+   </variable>
+</TestCaseEntity>

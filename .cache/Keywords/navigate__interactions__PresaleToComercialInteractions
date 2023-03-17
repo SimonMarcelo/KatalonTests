@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "83DD68E278B51267FFA2785D15066A22",
+  "keywordFileContentHash": "FD0C7B54DC0CAE7FFAAB73FD21DC46ED",
   "keywordClasses": [
     {
-      "name": "navigate.PresaleToComercialInteractions",
+      "name": "navigate.interactions.PresaleToComercialInteractions",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

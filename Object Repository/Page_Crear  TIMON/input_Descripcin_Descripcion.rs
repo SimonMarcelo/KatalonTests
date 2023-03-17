@@ -6,12 +6,12 @@
    <elementGuidId>b59b0e9a-b619-4a33-8ed9-23fa22346d7e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='Descripcion']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Descripcion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Descripcion']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b9f66d28-d2da-4e30-857c-53d45de3e4f5</webElementGuid>
+      <webElementGuid>5cf9ebd7-40a8-443d-850b-27879dd78305</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4ea0ca5e-d955-4f92-9765-e693a766a3a6</webElementGuid>
+      <webElementGuid>a4fcd5ab-9cd6-4399-9833-8462bb2fcc13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c279429d-caa9-417a-a6ee-2b89a13e39a5</webElementGuid>
+      <webElementGuid>c3d9d947-8402-48d8-a097-330e7e2056f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>982d6568-27c8-4ceb-95be-39fb7f89ecb1</webElementGuid>
+      <webElementGuid>d1069c4f-c503-4664-a8e5-f162eb5c1d63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>El campo Descripción es obligatorio</value>
-      <webElementGuid>668dcf23-4a93-4901-9b44-fb46d1fb618a</webElementGuid>
+      <webElementGuid>f9dc1e61-eb48-449c-ad94-f91b8e787d19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Descripcion</value>
-      <webElementGuid>5fd6c8a7-fd4c-4181-b3e0-95e1164266b4</webElementGuid>
+      <webElementGuid>c3060296-1208-4d6f-83ea-e5fcab00e25a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Descripcion</value>
-      <webElementGuid>f207b3d1-e85f-4e5d-8dfc-c7b427cb6af1</webElementGuid>
+      <webElementGuid>2dc83107-74c7-473e-8411-f8f0574240d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Descripcion&quot;)</value>
-      <webElementGuid>f97e6b6b-876b-490d-a350-aac5696b70ff</webElementGuid>
+      <webElementGuid>3bbe903e-33a0-4812-9609-ea7d26c512af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Descripcion']</value>
-      <webElementGuid>ecf800db-c601-4869-9d28-44c830b4bafa</webElementGuid>
+      <webElementGuid>3bc0b3f1-dd75-4d7f-b9a4-698e0687c9ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div/input</value>
-      <webElementGuid>06b1e137-0309-4222-a9fd-b6e2d2b51f4b</webElementGuid>
+      <webElementGuid>fb012c90-ebef-4fad-a490-38bec8bb96e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'Descripcion' and @name = 'Descripcion']</value>
-      <webElementGuid>460cd092-2979-4229-ba52-36521b92f471</webElementGuid>
+      <webElementGuid>40795af0-1565-442f-80a3-b99fd438355f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ingrese un valor entre 0 y 99</name>
+   <tag></tag>
+   <elementGuidId>e8aa9cb4-b766-42b0-b5fa-f85e44ccb8f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DuracionMeses-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='DuracionMeses-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d9d190b-075e-409d-9cda-1c022d3e12f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DuracionMeses-error</value>
+      <webElementGuid>6b73d67f-2ba1-4be9-874b-76baf3fc1c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingrese un valor entre 0 y 99</value>
+      <webElementGuid>0e76cf78-ec9e-48d5-9a8e-9f0011fd2a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DuracionMeses-error&quot;)</value>
+      <webElementGuid>37b2b0ab-5098-4a90-9755-c246441725eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='DuracionMeses-error']</value>
+      <webElementGuid>4f49ccaf-d657-41de-bc67-3ff51fe44d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duración en Meses'])[1]/following::span[2]</value>
+      <webElementGuid>7c216c8f-8e4a-4136-b4a7-945aa5515c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descripción'])[1]/following::span[3]</value>
+      <webElementGuid>928e232c-1ff2-4557-b649-0e63e6306e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Servicio'])[1]/preceding::span[1]</value>
+      <webElementGuid>4f739db8-2be9-4d4d-ac44-51e66cb8fc10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha Límite Presentación'])[1]/preceding::span[2]</value>
+      <webElementGuid>3c4f05fe-7811-4a40-b979-e2b07c81150e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese un valor entre 0 y 99']/parent::*</value>
+      <webElementGuid>574cd38e-7d53-41ec-b746-14830767f1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>f576b590-e47d-43c3-a726-524ff6fa46e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'DuracionMeses-error' and (text() = 'Ingrese un valor entre 0 y 99' or . = 'Ingrese un valor entre 0 y 99')]</value>
+      <webElementGuid>ad3c16d5-99b1-4b2b-a9cc-ea4118cc204d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

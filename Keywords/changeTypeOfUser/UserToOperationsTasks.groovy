@@ -1,5 +1,3 @@
-import cucumber.api.java.en.And
-
 package changeTypeOfUser
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint

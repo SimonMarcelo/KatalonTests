@@ -1,4 +1,4 @@
-package navigate
+package navigate.interactions
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -31,7 +31,7 @@ public class PresaleToComercialInteractions {
 	}
 
 	def clickOnSendToCommercial() {
-		WebUI.waitForElementVisible(findTestObject('Page_Cambiar estado  TIMON/button_Comercial'), 4)
+		WebUI.waitForElemen	tVisible(findTestObject('Page_Cambiar estado  TIMON/button_Comercial'), 4)
 		//WebUI.click(findTestObject('Object Repository/Page_Cambiar Estado  TIMON/div_Tipo Oportunidad                       _2055a9'))
 		WebUI.click(findTestObject('Object Repository/Page_Cambiar Estado  TIMON/button_Comercial'))
 	}

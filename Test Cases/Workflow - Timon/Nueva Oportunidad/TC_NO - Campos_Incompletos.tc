@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_NO - Campos_Incompletos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05f6ac4d-1f0e-4ea4-a3cd-048daeb3f376</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8fd830e8-2d42-4f56-bd2e-2a7f9edc6c56</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/URLs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aaf06934-9f96-4375-bc53-fe47fb888d30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://desworkflow.ecosistemasinfo.com/Oportunidad'</defaultValue>
+      <description></description>
+      <id>aaf06934-9f96-4375-bc53-fe47fb888d30</id>
+      <masked>false</masked>
+      <name>Workflow_URL</name>
+   </variable>
+</TestCaseEntity>

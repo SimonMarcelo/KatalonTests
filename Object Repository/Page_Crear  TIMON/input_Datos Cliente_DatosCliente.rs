@@ -6,12 +6,12 @@
    <elementGuidId>28a72335-a213-419e-a6b9-94acb7ade6d0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='DatosCliente']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#DatosCliente</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='DatosCliente']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>20153434-d1e1-4b31-8580-494b301c9fc8</webElementGuid>
+      <webElementGuid>66758a35-d9f8-47d4-bfe5-7c4157135d1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>37d0fbae-9587-4743-9280-b3231ffba726</webElementGuid>
+      <webElementGuid>d990476c-6147-4972-987d-8e034ddf1164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4a2e6fae-a58b-4633-98d1-eeb223419ea6</webElementGuid>
+      <webElementGuid>6c9efb90-a1d8-4a22-b65c-4dfb2e7fcdab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>31f9fa6f-5600-4549-b35c-96bccc530cf3</webElementGuid>
+      <webElementGuid>04886a9c-0636-4298-8c21-ead772078ce0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>El campo Datos Cliente es obligatorio</value>
-      <webElementGuid>fc1b308a-62cf-4a1d-a43c-aa18c39798e8</webElementGuid>
+      <webElementGuid>94be0e53-0840-41f0-b373-e110a9c48631</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>DatosCliente</value>
-      <webElementGuid>5936c559-bf32-4010-9f93-934679ea7052</webElementGuid>
+      <webElementGuid>49245718-99b4-466d-915c-a8fb8172a264</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>DatosCliente</value>
-      <webElementGuid>996b7862-379a-47c8-826e-be8332642ec3</webElementGuid>
+      <webElementGuid>67aa77b8-81d1-4f70-9009-2e9446fe1e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>62cfd4d7-1ed4-4c2d-9c29-0067f52ae960</webElementGuid>
+      <webElementGuid>5730d967-0298-48e7-a15b-380d3bcd4057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DatosCliente&quot;)</value>
-      <webElementGuid>2b854885-bc76-4372-8556-7e2450196b2f</webElementGuid>
+      <webElementGuid>134cb8dd-4d24-4b3b-b5ac-c6251c2a7aea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='DatosCliente']</value>
-      <webElementGuid>9245dd2d-ad59-4821-8ed8-00879c6c4378</webElementGuid>
+      <webElementGuid>47f474d8-6d12-4971-91ef-09ef38c9e794</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientes']/input</value>
-      <webElementGuid>561027c0-6339-4a3c-ae5c-d69fb372d2e4</webElementGuid>
+      <webElementGuid>5db1f64b-147a-4380-baab-99442b9c9b6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[3]/div/div/input</value>
-      <webElementGuid>011e8f1b-e464-4990-8428-c6ad3780b88d</webElementGuid>
+      <webElementGuid>c77ad788-2b9c-401b-afea-6e9be75d7fda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'DatosCliente' and @name = 'DatosCliente']</value>
-      <webElementGuid>56116176-9751-4973-b21a-db9f94f93c81</webElementGuid>
+      <webElementGuid>e3d61514-fbb5-4b38-977a-c1c222108312</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>437b8c90-437b-46f6-a953-ae70bc036696</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='IdPais']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#IdPais</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='IdPais']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>cc6666f3-2ab2-43a1-b1c4-de9e99aa4043</webElementGuid>
+      <webElementGuid>66614edd-426c-46f9-a9a7-2663b5cf9c69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>930469b4-9068-4516-8e63-1ffc76178b3d</webElementGuid>
+      <webElementGuid>9e995b43-97c0-4cf1-a1ab-ccc9a5e0f0e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>48e65da3-377c-4b29-a7f4-07b0fb9a183c</webElementGuid>
+      <webElementGuid>ca615ddd-f0d8-410e-97ed-6c45382bf773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>El campo País Facturación es obligatorio</value>
-      <webElementGuid>0c73d585-f4df-49a6-8072-d1b56fca3e31</webElementGuid>
+      <webElementGuid>e63fd199-7026-4d10-8207-9c8a604959b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>IdPais</value>
-      <webElementGuid>bd2d5f56-edaf-44b5-b342-97648017f0c0</webElementGuid>
+      <webElementGuid>377d3e40-80c9-473b-b05e-221928942926</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>IdPais</value>
-      <webElementGuid>74d0a747-4ffe-4d64-99dd-cfcab6f013d8</webElementGuid>
+      <webElementGuid>38772604-b22c-4373-a59e-0a0a5672cd5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@ Paraguay
 Colombia
 Sudafrica
 </value>
-      <webElementGuid>b5a22cba-8174-4abc-9506-95b6761892fc</webElementGuid>
+      <webElementGuid>7a81a1ea-cc03-49b5-8c49-4ab2eab4963a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@ Sudafrica
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;IdPais&quot;)</value>
-      <webElementGuid>fd17bd71-03fc-4b1c-9fc0-f67631acbc47</webElementGuid>
+      <webElementGuid>81505b9b-49cf-4a45-94a2-e1984d2b1549</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -96,7 +96,7 @@ Sudafrica
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='IdPais']</value>
-      <webElementGuid>a364e9c4-f695-4c8c-b587-b84a48cb31b4</webElementGuid>
+      <webElementGuid>ec52a32a-a334-4171-ac8e-911ff688f004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@ Sudafrica
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='País Facturación'])[1]/following::select[1]</value>
-      <webElementGuid>63351d4f-52a2-42e6-8c2d-5d8c417e43a2</webElementGuid>
+      <webElementGuid>bad7d571-468f-4c03-996d-1a7343e77fcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@ Sudafrica
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado'])[1]/following::select[1]</value>
-      <webElementGuid>2b5a9a6d-ac33-43b9-a393-53e2bb5f75ad</webElementGuid>
+      <webElementGuid>f4d4bf7d-ae1d-412d-b81d-b92d93a885aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@ Sudafrica
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Moneda'])[1]/preceding::select[1]</value>
-      <webElementGuid>7ef65ae5-b7c8-4d5d-a890-d4375459e940</webElementGuid>
+      <webElementGuid>1a105e8f-2408-49c5-8847-db420c264a80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@ Sudafrica
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Toma clientes de NetSuite?'])[1]/preceding::select[2]</value>
-      <webElementGuid>2addfab7-d4c4-4ded-8866-10a383a1f126</webElementGuid>
+      <webElementGuid>cfc8e9fa-247d-421c-83c2-50b53b8ab067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@ Sudafrica
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/select</value>
-      <webElementGuid>1e8a3177-9124-4e3d-9233-7f85952c4d2e</webElementGuid>
+      <webElementGuid>99137689-d0ae-47bb-868b-76129bf05259</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,6 +164,6 @@ Paraguay
 Colombia
 Sudafrica
 ')]</value>
-      <webElementGuid>4d9f089b-2dcb-4c29-9dca-9718c88dc381</webElementGuid>
+      <webElementGuid>b4675064-c047-4503-8945-689d584572a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

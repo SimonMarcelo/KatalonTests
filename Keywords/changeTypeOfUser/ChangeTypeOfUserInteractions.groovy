@@ -21,26 +21,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class ChangeTypeOfUserInteractions {
-	
+
 	def cambiarUsuarioSegunSector(String sector) {
-		
+
 		WebUI.waitForElementPresent(findTestObject('Page_Listado de Oportunidades  TIMON/i_Simon, Marcelo_fas fa-arrow-alt-circle-right'),
-			4)
-		
+				4)
+
 		WebUI.click(findTestObject('Object Repository/Page_Listado de Oportunidades  TIMON/a_Usuarios'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_Listado de Oportunidades  TIMON/a_Usuarios_1'))
-		
+
 		WebUI.navigateToUrl('https://desworkflow.ecosistemasinfo.com/Usuario')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_Listado de usuarios  TIMON/a_3'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_Listado de usuarios  TIMON/i_Si_fas fa-pencil-alt'))
-		
+
 		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Editar Usuario  TIMON/select_SeleccioneComercialPreventaOperacion_d80c01'),
-			sector, true)
-		
+				sector, true)
+
 		WebUI.click(findTestObject('Object Repository/Page_Editar Usuario  TIMON/input_Volver_btn btn-info'))
-		
 	}
 }

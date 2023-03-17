@@ -20,14 +20,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import cucumber.api.java.en.And
 import internal.GlobalVariable
-import navigate.NavigateNewOportunityPresaleToComercialInteractions
+import navigate.PresaleToComercialInteractions
 
 public class PresaleToComercialTasks {
 
 
 	@And("envía la nueva oportunidad de Preventa a Comercial")
 	public void send_oportunity_from_presale_to_commercial() {
-		def navigate = new NavigateNewOportunityPresaleToComercialInteractions()
+		def navigate = new PresaleToComercialInteractions()
 		navigate.clickOnAllOportunities()
 		navigate.clickOnChangeState()
 		navigate.clickOnSendToCommercial()

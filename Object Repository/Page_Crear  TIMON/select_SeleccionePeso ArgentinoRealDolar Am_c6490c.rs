@@ -6,12 +6,12 @@
    <elementGuidId>85ad780c-f59f-4c77-b4bb-50c1d0396743</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='IdMoneda']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#IdMoneda</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='IdMoneda']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>900c4a44-e903-418c-a89b-7f8c671aa6dd</webElementGuid>
+      <webElementGuid>73097295-0e73-4230-8ba0-615307c167fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4e424fc2-a28d-4f75-a9b4-5e48bf819eb5</webElementGuid>
+      <webElementGuid>de6e6814-f900-4563-81fb-1d7ddacd7d9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f50fd6aa-e0b6-454b-a56d-49ca90af8bb1</webElementGuid>
+      <webElementGuid>9790986e-eb05-4967-b608-89985a68fe50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>El campo Moneda es obligatorio</value>
-      <webElementGuid>3b1c8bfc-1c75-4fe7-85a4-4bc8407f6ca3</webElementGuid>
+      <webElementGuid>14e1ffb6-b526-49de-902b-3ffc822253ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>IdMoneda</value>
-      <webElementGuid>b5b8efc2-ac2e-483e-8f77-2d150e9fed8e</webElementGuid>
+      <webElementGuid>a052d4bf-558c-4e9e-a2b8-79d712f5e00a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>IdMoneda</value>
-      <webElementGuid>e8c40282-f668-457a-9fae-28a0f5826d78</webElementGuid>
+      <webElementGuid>c6c833bc-5439-4e87-986e-4cf60c2738d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@ Nuevo sol peruano
 Peso Uruguayo
 Peso Colombiano
 </value>
-      <webElementGuid>b98ac36d-100a-4a25-9f99-d7b345ce8e9d</webElementGuid>
+      <webElementGuid>3001e543-4880-409d-b88e-2ffd02b17b39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@ Peso Colombiano
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;IdMoneda&quot;)</value>
-      <webElementGuid>d78b4557-a9c7-4c6d-b119-fe57e7fd20d7</webElementGuid>
+      <webElementGuid>6283e49b-441a-4353-aa44-6431fca1e6d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -100,7 +100,7 @@ Peso Colombiano
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='IdMoneda']</value>
-      <webElementGuid>d122959f-7361-44e2-8a16-25c1e32fcf8d</webElementGuid>
+      <webElementGuid>56f8bf31-be5b-48a6-914a-5e8250b3b8c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@ Peso Colombiano
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Moneda'])[1]/following::select[1]</value>
-      <webElementGuid>0643d15c-46ed-4414-b344-5168e2213347</webElementGuid>
+      <webElementGuid>1093b90c-b67d-4ab3-a676-55ad3ace8d30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@ Peso Colombiano
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='País Facturación'])[1]/following::select[2]</value>
-      <webElementGuid>d562315a-74bb-4102-83c2-352c6258a663</webElementGuid>
+      <webElementGuid>c06a74f3-b360-4aa7-bdff-c5d3a23207b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@ Peso Colombiano
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Toma clientes de NetSuite?'])[1]/preceding::select[1]</value>
-      <webElementGuid>f75d0b08-ac49-4a2e-b717-c0f95abbb4cd</webElementGuid>
+      <webElementGuid>dfaa72b0-d39c-462e-a643-104e602b6e40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@ Peso Colombiano
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos Cliente'])[1]/preceding::select[1]</value>
-      <webElementGuid>d35cfa10-b37a-4e7e-8fae-3a9dbac07ff9</webElementGuid>
+      <webElementGuid>aec10a19-348f-4a12-974f-7eda4a515fe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@ Peso Colombiano
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/select</value>
-      <webElementGuid>cd507dd3-2a39-4ba6-81f9-b27aa39ab7af</webElementGuid>
+      <webElementGuid>25521c9c-32b8-4706-b6d4-fdf9dc0fc157</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -176,6 +176,6 @@ Nuevo sol peruano
 Peso Uruguayo
 Peso Colombiano
 ')]</value>
-      <webElementGuid>c698c7d9-cd12-4735-a08b-e1ce94164749</webElementGuid>
+      <webElementGuid>bdf59fa3-3bc5-4e87-9d4a-6b76b9c8294c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

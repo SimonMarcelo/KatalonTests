@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_El campo Moneda es obligatorio</name>
+   <tag></tag>
+   <elementGuidId>9d7cd72b-f8cd-419c-86cc-4ef2784841b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#IdMoneda-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='IdMoneda-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a15003c-7014-40e0-897c-d461391cdb46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>IdMoneda-error</value>
+      <webElementGuid>3fefe940-2050-4b71-904e-dab0d2c229df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El campo Moneda es obligatorio</value>
+      <webElementGuid>0ff072df-70ee-4db2-ae2a-df055096df0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IdMoneda-error&quot;)</value>
+      <webElementGuid>875947a0-02fe-480d-bac9-20dab0c61bfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='IdMoneda-error']</value>
+      <webElementGuid>b01cd478-1c72-4090-ad17-a5dee45f41b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moneda'])[1]/following::span[2]</value>
+      <webElementGuid>5510f10f-1cb8-4f53-b9ed-74dfbbb3d606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País Facturación'])[1]/following::span[3]</value>
+      <webElementGuid>4060bdf1-ab06-47b6-87c3-230142fde45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Toma clientes de NetSuite?'])[1]/preceding::span[1]</value>
+      <webElementGuid>14787128-5f72-4af2-9bcb-3e9428fd9160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos Cliente'])[1]/preceding::span[3]</value>
+      <webElementGuid>4a4fc06f-dbe8-4641-8008-737f77e6f037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El campo Moneda es obligatorio']/parent::*</value>
+      <webElementGuid>22ae1307-8df5-4b09-8ccd-74c15091400c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>731a08d0-49b5-483a-8bb5-6c3fa568b584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'IdMoneda-error' and (text() = 'El campo Moneda es obligatorio' or . = 'El campo Moneda es obligatorio')]</value>
+      <webElementGuid>1dd8a917-8e5a-4d3b-b543-b09f4b44f4cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

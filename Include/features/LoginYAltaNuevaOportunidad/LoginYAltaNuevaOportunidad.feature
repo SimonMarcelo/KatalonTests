@@ -5,9 +5,9 @@ Característica: Flujo de trabajo de oportunidades
   
   Antecedentes: 
     Dado que el usuario ingresa al sitio web
+    Cuando el usuario ingresa sus credenciales de manera correcta "ecosistemas.prueba@gmail.com" y "cavWDAa0EbnZjXBQ12k5kg=="
 
-  Esquema del escenario: Creación de una nueva oportunidad
-    Cuando el usuario ingresa sus credenciales de manera correcta <usuario> y <contraseña>
+  Esquema del escenario: Creación de una nueva oportunidad (FlujoODM-01)
     Entonces se visualiza que ingresó correctamente a la plataforma
     Y crea una nueva oportunidad completando el formulario correspondiente 
     

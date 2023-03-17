@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_NO - Sin relacionarla y sin NetSuite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2046c92-7725-4642-b566-2f76e34e1ddc</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8fd830e8-2d42-4f56-bd2e-2a7f9edc6c56</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/URLs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>367fc6de-ee07-41ef-b662-f3175c90711c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://desworkflow.ecosistemasinfo.com/Oportunidad'</defaultValue>
+      <description></description>
+      <id>367fc6de-ee07-41ef-b662-f3175c90711c</id>
+      <masked>false</masked>
+      <name>Workflow_URL</name>
+   </variable>
+</TestCaseEntity>

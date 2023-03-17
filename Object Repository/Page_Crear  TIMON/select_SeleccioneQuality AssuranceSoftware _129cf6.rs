@@ -6,12 +6,12 @@
    <elementGuidId>bbdf21ee-007a-4587-86cb-83d807db95fe</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='IdTipoServicio']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#IdTipoServicio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='IdTipoServicio']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f613240d-eb39-4517-b618-e8e11925c301</webElementGuid>
+      <webElementGuid>586c665d-f8a1-4f4a-ae88-7224cccf08c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>e3547d65-3ff1-4e61-9e59-f2c8957c1e18</webElementGuid>
+      <webElementGuid>83f3471f-568c-4691-86ca-3377d00f820a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ff8a07b0-6629-40b7-a589-4314d5e3f517</webElementGuid>
+      <webElementGuid>5a5103eb-3340-4993-9a0d-23bf9e92a7e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>El campo Tipo Servicio es obligatorio</value>
-      <webElementGuid>580c72cb-2c7b-499f-a70f-0919a8537f4f</webElementGuid>
+      <webElementGuid>41136d27-d1f0-4c07-a1ba-2a762b6f1121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>IdTipoServicio</value>
-      <webElementGuid>4f2bb011-689b-4cd1-b447-eaa44842fa5e</webElementGuid>
+      <webElementGuid>9f362ebc-2f88-47f5-b05d-c5d043c55017</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>IdTipoServicio</value>
-      <webElementGuid>d568d5ce-daba-4071-8b32-477cd971ef83</webElementGuid>
+      <webElementGuid>7dce6d5a-5cc4-4151-a404-e7b23869b639</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@ Quality Assurance
 Software Solutions
 Servicio IT
 </value>
-      <webElementGuid>b6092b82-83f1-415a-bb80-b4667ff2fd55</webElementGuid>
+      <webElementGuid>bfacff01-1b47-4a5b-865d-2979594e70c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@ Servicio IT
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;IdTipoServicio&quot;)</value>
-      <webElementGuid>7e735029-1c8c-4be2-b056-25fcf980c3f4</webElementGuid>
+      <webElementGuid>fa3886a8-639f-41f2-91b2-f8a9fbe7d73d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@ Servicio IT
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='IdTipoServicio']</value>
-      <webElementGuid>6e058512-3b80-4e6d-a603-b3553180c834</webElementGuid>
+      <webElementGuid>6100fda9-e6d1-42b8-b25c-3aef73d0db1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@ Servicio IT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Servicio'])[1]/following::select[1]</value>
-      <webElementGuid>81e416f0-8335-4d42-9725-ca4e44dbc4bb</webElementGuid>
+      <webElementGuid>f6f764df-4786-45c8-bfae-7be550815b84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@ Servicio IT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Duración en Meses'])[1]/following::select[1]</value>
-      <webElementGuid>bdf4dc8f-308b-4e0a-a8b9-a7aab3e918f7</webElementGuid>
+      <webElementGuid>ba6e7257-2aa4-45b8-b40d-93cf1dbc64c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@ Servicio IT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha Límite Presentación'])[1]/preceding::select[1]</value>
-      <webElementGuid>1ee2da39-4ae1-4929-91c2-cca5bb3e4d14</webElementGuid>
+      <webElementGuid>09db5afd-298c-422c-bd2a-a20c26564ba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@ Servicio IT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prioridad'])[1]/preceding::select[1]</value>
-      <webElementGuid>ef0982ca-4c20-496e-8d9e-f210e5db0b83</webElementGuid>
+      <webElementGuid>8b80feb0-af30-4e8b-8c3e-33a59b7f24ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@ Servicio IT
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/div/select</value>
-      <webElementGuid>81493194-688f-4afb-97db-d77c2b6ef71f</webElementGuid>
+      <webElementGuid>b4691a7b-4771-49f3-ac40-46b167c5ea95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +146,6 @@ Quality Assurance
 Software Solutions
 Servicio IT
 ')]</value>
-      <webElementGuid>57f38285-5abd-4347-b6e7-b9fbcdf85e9f</webElementGuid>
+      <webElementGuid>8f280791-6c86-4f5a-b83a-323110876677</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

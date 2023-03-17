@@ -20,12 +20,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import cucumber.api.java.en.And
 import internal.GlobalVariable
+import navigate.interactions.AddOportunityInteractions
 
 public class AddOportunityTasks {
 
 	@And("crea una nueva oportunidad completando el formulario correspondiente")
 	public void create_a_new_oportunity_() {
-		NavigateAddOportunityInteractions navigate = new NavigateAddOportunityInteractions()
+		AddOportunityInteractions navigate = new AddOportunityInteractions()
 
 		navigate.clickOnCreateNewOportunity()
 		navigate.selectTypeOfOportunity()

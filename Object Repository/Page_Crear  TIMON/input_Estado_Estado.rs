@@ -6,12 +6,12 @@
    <elementGuidId>e3fdede4-e09e-4be3-a9d3-4d901c5cdeab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='Estado']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Estado</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Estado']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>02ad0905-ec38-4e00-814d-74a3b06d4992</webElementGuid>
+      <webElementGuid>13456e73-a14a-4630-a879-1ae6e415e06d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7591788c-71b7-4321-9e25-7a5867ded4c2</webElementGuid>
+      <webElementGuid>28ebfd19-7295-4d0a-aa54-adc54fc8d803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>533d6618-a838-45b3-8972-32b90033cf1f</webElementGuid>
+      <webElementGuid>8dc461c8-3737-455f-b5e1-bd9bfb603bf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ca02b112-eb4f-485f-9ccd-e9a5a02c0068</webElementGuid>
+      <webElementGuid>3f2bf683-0634-43e3-a8f9-429c6a2cc4c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Estado field is required.</value>
-      <webElementGuid>61b9265b-c86a-451a-8bc7-d9d2b834fa3e</webElementGuid>
+      <webElementGuid>8009ea12-b68a-40c8-917c-1acee1c32957</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Estado</value>
-      <webElementGuid>4dc9af0c-cf09-4fbb-a72c-910fba88500f</webElementGuid>
+      <webElementGuid>a2ba5378-e690-444a-9591-6cd970f93d80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Estado</value>
-      <webElementGuid>b7e39778-f628-4016-9170-c2ffb823142e</webElementGuid>
+      <webElementGuid>12ecb713-2a8a-44a8-8413-fbd1c84854dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Nueva Oportunidad</value>
-      <webElementGuid>36563c60-27bd-4901-955c-d5d82e93c2c3</webElementGuid>
+      <webElementGuid>53f8f1ad-ffa3-47a8-ac92-ab07d7b443d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Estado&quot;)</value>
-      <webElementGuid>46c99850-6f9c-4b39-9f14-b6298d6fd4f8</webElementGuid>
+      <webElementGuid>956e6429-51c2-4616-afa1-ba87df7454fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Estado']</value>
-      <webElementGuid>5348f7d1-4856-42c4-94d6-fd0a56c64907</webElementGuid>
+      <webElementGuid>e1acb76f-1bad-4bf4-be0a-81710ec2c15a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/input</value>
-      <webElementGuid>d26fde3d-ee41-427b-9367-39d2060cbc06</webElementGuid>
+      <webElementGuid>2e2bf7c2-f84e-497b-88fd-8afcb11db7b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'Estado' and @name = 'Estado']</value>
-      <webElementGuid>bfaa1ebb-5373-4409-9b9a-8e3df7b861b3</webElementGuid>
+      <webElementGuid>7ce96726-be8d-42eb-ba98-3bbb6e7fac23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

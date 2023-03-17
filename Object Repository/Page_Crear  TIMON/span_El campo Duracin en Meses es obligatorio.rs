@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_El campo Duracin en Meses es obligatorio</name>
+   <tag></tag>
+   <elementGuidId>521c80e2-9e12-48d4-b74c-523d71286ad6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DuracionMeses-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='DuracionMeses-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>82772c65-2eb2-4bd6-819a-2fddddc49232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DuracionMeses-error</value>
+      <webElementGuid>8f00513f-70ab-445c-9a54-20e57267de2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El campo Duración en Meses es obligatorio</value>
+      <webElementGuid>1e631845-a1d4-4e3d-808a-522f272a03eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DuracionMeses-error&quot;)</value>
+      <webElementGuid>2f088339-bb1c-48ff-abde-a4f11c759bce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='DuracionMeses-error']</value>
+      <webElementGuid>43ae6c31-8b55-4cd6-b090-550db4b2094c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duración en Meses'])[1]/following::span[2]</value>
+      <webElementGuid>00c7df78-c224-4153-adbb-8004ebdb3213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descripción'])[1]/following::span[3]</value>
+      <webElementGuid>b1921d48-e64f-4923-9452-4ca495c16325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Servicio'])[1]/preceding::span[1]</value>
+      <webElementGuid>9d063029-084c-47b4-af09-43d967842b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha Límite Presentación'])[1]/preceding::span[2]</value>
+      <webElementGuid>33f86d61-bbd6-4fc7-bebc-d92654a5b5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El campo Duración en Meses es obligatorio']/parent::*</value>
+      <webElementGuid>e73e0350-4b76-49de-9572-f438f9278f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/span/span</value>
+      <webElementGuid>1dc27f4b-513e-4bc2-a40e-7904d7eca7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'DuracionMeses-error' and (text() = 'El campo Duración en Meses es obligatorio' or . = 'El campo Duración en Meses es obligatorio')]</value>
+      <webElementGuid>da500599-4eca-4f39-844a-52d4d45b114d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

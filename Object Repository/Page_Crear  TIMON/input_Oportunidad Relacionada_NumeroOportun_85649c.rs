@@ -6,12 +6,12 @@
    <elementGuidId>a1d48460-af1c-4c01-8bde-ccb826fe94cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='NumeroOportunidadRelacionada']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#NumeroOportunidadRelacionada</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='NumeroOportunidadRelacionada']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dbc465f8-8cf6-4271-9fd2-94af3835154f</webElementGuid>
+      <webElementGuid>1d8fdff3-9693-4964-a288-3090d8eb7735</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>82918cf4-815f-40cb-ad7f-8120ff617f59</webElementGuid>
+      <webElementGuid>a080a721-dcf1-46cc-bb0d-4bc16cb57cd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ff12684e-1968-47ce-a250-72532248400f</webElementGuid>
+      <webElementGuid>389252cd-5c6c-477f-93c6-32aee067df07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>NumeroOportunidadRelacionada</value>
-      <webElementGuid>dda58aec-a28f-43d3-952d-3f24531f2b84</webElementGuid>
+      <webElementGuid>7236d407-17d2-469e-bf24-0086c2675353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>NumeroOportunidadRelacionada</value>
-      <webElementGuid>e3516c55-8c11-4ed9-b020-760dc7851ef5</webElementGuid>
+      <webElementGuid>3145817b-2bf1-4b68-a720-48d7f7baa76b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f73fc8c9-56f7-43da-8461-60076b6f60ca</webElementGuid>
+      <webElementGuid>1e0bbbca-5ae4-49b0-8abe-361d53e842be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;NumeroOportunidadRelacionada&quot;)</value>
-      <webElementGuid>4fb3d98b-c671-48e7-b287-83121ad71cf8</webElementGuid>
+      <webElementGuid>f34098d7-b91f-4a49-85c4-9640629083cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='NumeroOportunidadRelacionada']</value>
-      <webElementGuid>939fe15b-c705-426e-8e97-dacf892961d2</webElementGuid>
+      <webElementGuid>c3ef904a-0e03-420d-bffc-620169f78b85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>4b115f6d-f61e-47be-9a09-9a6c9d5d568f</webElementGuid>
+      <webElementGuid>a4d156e9-9e22-4ff4-96cf-fb3cc67cb38c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'NumeroOportunidadRelacionada' and @name = 'NumeroOportunidadRelacionada']</value>
-      <webElementGuid>8d23b9de-f267-48f3-836f-d523350ef28f</webElementGuid>
+      <webElementGuid>2a16727c-d8a4-42f5-908a-8f5e7a3deb58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>ecb2a018-d959-48fc-9ec0-051502902fca</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='oportunidades']/tbody/tr[-1]/td[14]/span/a[4]/i</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//table[@id='oportunidades']/tbody/tr[-1]/td[14]/span/a[4]/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ef844e91-1b6a-4614-81cc-57b04dd28e05</webElementGuid>
+      <webElementGuid>95451062-a0d4-479f-84ee-299a7116fe85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>far fa-trash-alt red-text</value>
-      <webElementGuid>e906b2bd-bffa-44be-8bc6-d62b21da657c</webElementGuid>
+      <webElementGuid>f812ce65-6f44-4942-976c-c46700656c38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oportunidades&quot;)/tbody[1]/tr[6]/td[14]/span[1]/a[@class=&quot;text-danger&quot;]/i[@class=&quot;far fa-trash-alt red-text&quot;]</value>
-      <webElementGuid>9fe0f3ce-1ad5-415a-8c01-8dda09441d2d</webElementGuid>
+      <webElementGuid>b70a9cbd-e69b-461d-b000-bd60019d2eef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='oportunidades']/tbody/tr[6]/td[14]/span/a[4]/i</value>
-      <webElementGuid>7d523a36-6ec0-4721-bf0c-b9535d247c0b</webElementGuid>
+      <webElementGuid>94efa647-0487-4e4d-9d5e-6a7bbf0c8613</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[6]/td[14]/span/a[4]/i</value>
-      <webElementGuid>84cd1427-484a-49ff-bfb5-54e760c61e59</webElementGuid>
+      <webElementGuid>8e0f1996-a457-417e-98b6-21e9823ee011</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

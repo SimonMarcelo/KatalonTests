@@ -6,12 +6,12 @@
    <elementGuidId>7189d885-2db6-47ee-98df-b8372b4230fb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ecosistemas'])[1]/following::div[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.autocomplete-suggestion.autocomplete-selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ecosistemas'])[1]/following::div[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>aeb77523-4f9a-4fdd-b740-214172159141</webElementGuid>
+      <webElementGuid>2b85df03-94c6-46e5-bcca-8531e931cdcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>autocomplete-suggestion autocomplete-selected</value>
-      <webElementGuid>3cd0fcf9-0df7-4c98-ae3d-1eed9f933de0</webElementGuid>
+      <webElementGuid>ea0804d7-04d5-4a1d-9a3f-2a2d3770e459</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0c8b1ef3-ffd7-4687-972d-cb74e447a0c3</webElementGuid>
+      <webElementGuid>1f2ce19b-7d66-4d5e-b53c-3c3fe94dd831</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ODM2023001 - Squad testing automatizado</value>
-      <webElementGuid>50ef00d2-3229-43a4-813a-beacdf7aeb0b</webElementGuid>
+      <webElementGuid>ade6d955-45bb-409a-9306-663194c2dc92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[@class=&quot;nav-md&quot;]/div[@class=&quot;autocomplete-suggestions&quot;]/div[@class=&quot;autocomplete-suggestion autocomplete-selected&quot;]</value>
-      <webElementGuid>3509f7ee-ebd2-4c50-855a-a1106e00dd36</webElementGuid>
+      <webElementGuid>14e6d668-2348-4fbc-99ed-3e96aca1c16d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ecosistemas'])[1]/following::div[4]</value>
-      <webElementGuid>2bf399aa-f688-4189-a59e-2cc457290c65</webElementGuid>
+      <webElementGuid>0aac2e1f-59c6-4241-92b9-16e66f1865f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ODM'])[3]/preceding::div[1]</value>
-      <webElementGuid>ff451def-380f-4360-8898-61e890140495</webElementGuid>
+      <webElementGuid>1530fa5b-41ab-47d8-9d3c-383e86d435ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='2023001 - Squad testing automatizado']/parent::*</value>
-      <webElementGuid>1062cfb3-cee9-4a89-866c-25d1c66ca180</webElementGuid>
+      <webElementGuid>273db500-c256-4294-93a1-f5e8949fa1b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div</value>
-      <webElementGuid>54215264-a025-453d-b5bb-2633ad79bd77</webElementGuid>
+      <webElementGuid>b4c491a4-b621-434b-8045-3dba63972dec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'ODM2023001 - Squad testing automatizado' or . = 'ODM2023001 - Squad testing automatizado')]</value>
-      <webElementGuid>d0fcacd6-e9f3-4e36-9a83-101dbe3ca29e</webElementGuid>
+      <webElementGuid>aa918364-1d0b-45df-bddb-adbb904b9844</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

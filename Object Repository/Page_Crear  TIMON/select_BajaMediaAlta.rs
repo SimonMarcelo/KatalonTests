@@ -6,12 +6,12 @@
    <elementGuidId>8ccb3900-01bc-484a-89a6-2d5ed40a715b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='IdPrioridad']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#IdPrioridad</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='IdPrioridad']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d4bd7f4a-5abe-41bd-a9c0-93ba9d0752f1</webElementGuid>
+      <webElementGuid>789b8505-27a3-49c3-9d9a-f52241f2fccc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>008f468a-c41b-4af9-9833-133fe2fac9b1</webElementGuid>
+      <webElementGuid>ffdba642-7bf7-45d3-8d01-f53a560b502d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>14271065-bfd1-4afe-9d10-bb3ad5934136</webElementGuid>
+      <webElementGuid>4201f495-7f92-46ad-9a29-4808069dfc5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>El campo Prioridad es obligatorio</value>
-      <webElementGuid>930811d9-d85e-4afb-a85e-000ffc4a53a1</webElementGuid>
+      <webElementGuid>b7a927ac-ba1b-4b9d-a170-474150aa83ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>IdPrioridad</value>
-      <webElementGuid>d4068137-9cc5-46d6-9287-30cbe130f389</webElementGuid>
+      <webElementGuid>7223f95f-8b8f-4471-86dd-861131fe2baa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>IdPrioridad</value>
-      <webElementGuid>c6edb358-4b76-4cf4-b35d-8d3f076994b6</webElementGuid>
+      <webElementGuid>20b426ca-5f3d-437b-bd7e-99535915968e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
 Media
 Alta
 </value>
-      <webElementGuid>1041b9e6-c362-4fff-8c98-615b55978240</webElementGuid>
+      <webElementGuid>136caa31-06a7-427d-9f4d-a8c459f63458</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@ Alta
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;IdPrioridad&quot;)</value>
-      <webElementGuid>1307f3dd-2d67-4abe-91b5-59d8f4e06e9b</webElementGuid>
+      <webElementGuid>d3bacf52-b019-4fc1-a22c-c6492296f2a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -89,7 +89,7 @@ Alta
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='IdPrioridad']</value>
-      <webElementGuid>776de705-3a45-414b-8fdd-75b0083a1eaa</webElementGuid>
+      <webElementGuid>1ae8efe1-4a21-401e-b467-cdf017c95a16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@ Alta
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prioridad'])[1]/following::select[1]</value>
-      <webElementGuid>c40ca823-328c-400f-b4a4-c694d84decb9</webElementGuid>
+      <webElementGuid>5bb6687a-8d69-45bc-9371-e09af9eaa71f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@ Alta
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha Límite Presentación'])[1]/following::select[1]</value>
-      <webElementGuid>7a6aee2f-695f-4b8e-a71f-91ebea705102</webElementGuid>
+      <webElementGuid>db172027-5c76-44fc-8511-a68d003f10c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@ Alta
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalle'])[1]/preceding::select[1]</value>
-      <webElementGuid>c1c58d46-109f-4319-b108-c91aaec737d8</webElementGuid>
+      <webElementGuid>bef44288-fe71-48aa-992f-d51903316fd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@ Alta
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver ⮌'])[1]/preceding::select[1]</value>
-      <webElementGuid>96a6be78-d66d-4f92-822f-4e1844f1fc6f</webElementGuid>
+      <webElementGuid>5756c905-52dd-4b98-8a51-ccb13d8bec1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@ Alta
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div[2]/div/select</value>
-      <webElementGuid>3a6dd4e2-5c48-405f-a079-8f00f7dfbea0</webElementGuid>
+      <webElementGuid>4f97c558-6a3c-4ded-804e-c9341533e92d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@ Alta
 Media
 Alta
 ')]</value>
-      <webElementGuid>ddcf90da-a917-4fa5-a700-5d1e96f3518c</webElementGuid>
+      <webElementGuid>2a159434-862d-4088-868e-4d1f599ea2ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

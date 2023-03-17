@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "1F1AA303AAD2B1F3EBCDAFE27CAED371",
+  "keywordFileContentHash": "1BB56D28B1214C0E9E6DBAA27BA62D9B",
   "keywordClasses": [
     {
       "name": "navigate.tasks.PresaleToComercialTasks",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

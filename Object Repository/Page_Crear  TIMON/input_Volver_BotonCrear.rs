@@ -6,12 +6,12 @@
    <elementGuidId>7654b336-2e9d-42a8-8e56-21f381428173</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='BotonCrear']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#BotonCrear</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='BotonCrear']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f9fda738-1ae2-444f-b7e9-771f105f81cf</webElementGuid>
+      <webElementGuid>bcdbaa5f-db9e-4b1e-9cdf-5156458c7926</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>da5d7316-3f18-4a44-80bb-5a2831101ce0</webElementGuid>
+      <webElementGuid>f37bb486-f03b-43b2-8711-cf2eb519915d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Crear</value>
-      <webElementGuid>1db5dfb7-5381-4c76-a38c-44abc5f42c87</webElementGuid>
+      <webElementGuid>85524366-2e38-4d6a-b87a-77a36242933d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>BotonCrear</value>
-      <webElementGuid>ba0ed9ef-6f8d-46bc-a18d-9759441f8564</webElementGuid>
+      <webElementGuid>958f4bf4-07de-4068-9213-79bacf3dd1ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>AsignarDatosCliente()</value>
-      <webElementGuid>017a8b1a-4b19-4153-9050-87752426da69</webElementGuid>
+      <webElementGuid>65b6c032-0e09-4690-bbba-97f26469b6bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info</value>
-      <webElementGuid>2359e863-f206-48aa-bda0-12ebc89fbedd</webElementGuid>
+      <webElementGuid>9471194b-5b1b-42fb-a22c-c98a1aa8c3d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;BotonCrear&quot;)</value>
-      <webElementGuid>e798c60b-54c6-4f06-9442-4f600312dddf</webElementGuid>
+      <webElementGuid>eb903ba6-6ef2-4db5-b057-76c8a3c4ce0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='BotonCrear']</value>
-      <webElementGuid>d24377c4-c080-4858-9c6b-fdac182223ca</webElementGuid>
+      <webElementGuid>0101844b-c632-435a-9b89-22d96bddcfd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>cf63839a-315c-45c7-b484-2a31cd222133</webElementGuid>
+      <webElementGuid>09a15f23-2ac3-45a3-9e63-55ea4a5a3711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @id = 'BotonCrear']</value>
-      <webElementGuid>e8a503f0-565b-4f65-b3df-1d78fe2d7a5b</webElementGuid>
+      <webElementGuid>4b7c6ce6-b353-4d7b-8346-c418bccf30ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

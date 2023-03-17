@@ -6,12 +6,12 @@
    <elementGuidId>df25f22f-2db1-44af-9aa3-a08d283f1516</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='DuracionMeses']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#DuracionMeses</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='DuracionMeses']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ef365240-094d-43b2-bbe3-8c04f56c711e</webElementGuid>
+      <webElementGuid>8f4a19b8-e0cd-41f9-abd9-19c104d85b4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>29496f62-78b0-4c4a-8d29-4e505fa5d3a7</webElementGuid>
+      <webElementGuid>ffd9a558-a626-4447-8dad-9bd09b858846</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>443a931a-c731-460d-9233-fd5db633868c</webElementGuid>
+      <webElementGuid>fe5bb8be-e01b-4942-9000-81e8d6782b63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>16211f17-74e1-4d9c-8a48-edcc333d48d0</webElementGuid>
+      <webElementGuid>8e62508f-5d5b-49a5-a0fb-692162aa325e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-range</name>
       <type>Main</type>
       <value>Ingrese un valor entre 0 y 99</value>
-      <webElementGuid>327a268a-d2c2-4c48-9a69-c4040a684c82</webElementGuid>
+      <webElementGuid>ac37b419-e97b-49ca-9656-ba5e6f885785</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val-range-max</name>
       <type>Main</type>
       <value>99</value>
-      <webElementGuid>e3bc4800-9ca3-495d-b3e1-47c4c956abeb</webElementGuid>
+      <webElementGuid>cfa92146-9410-4456-951b-6dafa4354941</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-val-range-min</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f45a8944-0a34-4005-b5d9-78582f597648</webElementGuid>
+      <webElementGuid>0f4e32b9-b151-4982-92e2-973e5babb030</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>El campo Duración en Meses es obligatorio</value>
-      <webElementGuid>03286049-26fa-45fc-9e42-758a7a9e8416</webElementGuid>
+      <webElementGuid>5ff440ae-71be-4a5b-a1cd-099b63d592eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>id</name>
       <type>Main</type>
       <value>DuracionMeses</value>
-      <webElementGuid>f4b2ef26-1195-48ec-b178-71a9b97ebac8</webElementGuid>
+      <webElementGuid>e22d1cf8-e05e-4cc5-bbab-e6aef2fff0f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>name</name>
       <type>Main</type>
       <value>DuracionMeses</value>
-      <webElementGuid>b4747640-187d-4dad-a543-86353c23fac2</webElementGuid>
+      <webElementGuid>a1f57d29-23c7-43f3-aaa8-11c3341cb0f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DuracionMeses&quot;)</value>
-      <webElementGuid>12fda327-19ba-422a-a49a-5d5b2bb129d3</webElementGuid>
+      <webElementGuid>9c913812-23b1-4314-bb03-972fdbc8b682</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='DuracionMeses']</value>
-      <webElementGuid>87b8c298-105e-4451-ae48-4fe19f903201</webElementGuid>
+      <webElementGuid>0372742a-80cf-4656-9494-45896dba101c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/input</value>
-      <webElementGuid>d243c91b-6b12-49f7-a23b-a92b59055a4c</webElementGuid>
+      <webElementGuid>2f038c34-91a3-4793-8ddb-5aa81d59b5ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @id = 'DuracionMeses' and @name = 'DuracionMeses']</value>
-      <webElementGuid>848c4ffb-fb04-42d6-b252-78a3f85a0b72</webElementGuid>
+      <webElementGuid>40d52b30-2b4d-490a-a5ce-441b77f1f878</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
