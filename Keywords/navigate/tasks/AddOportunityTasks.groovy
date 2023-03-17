@@ -1,4 +1,4 @@
-package navigate
+package navigate.tasks
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -18,17 +18,26 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
+import cucumber.api.java.en.And
 import internal.GlobalVariable
 
-public class NavigateTo {
+public class AddOportunityTasks {
 
-	def openBrowserAndNavigateTo(url) {
-		WebUI.openBrowser('')
-		WebUI.maximizeWindow()
-		WebUI.navigateToUrl(url)
-	}
+	@And("crea una nueva oportunidad completando el formulario correspondiente")
+	public void create_a_new_oportunity_() {
+		NavigateAddOportunityInteractions navigate = new NavigateAddOportunityInteractions()
 
-	def navigateTo(url) {
-		WebUI.navigateToUrl(url)
+		navigate.clickOnCreateNewOportunity()
+		navigate.selectTypeOfOportunity()
+		navigate.selectRelationatedOportunity()
+		navigate.selectCountry()
+		navigate.selectCurrency()
+		navigate.selectCustomer()
+		navigate.completeDescription()
+		navigate.setElapsedTime()
+		navigate.selectServiceType()
+		navigate.selectPriority()
+		navigate.completeDetail()
+		navigate.clickOnCreate()
 	}
 }

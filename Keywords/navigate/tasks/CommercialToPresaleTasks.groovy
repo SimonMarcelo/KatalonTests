@@ -1,4 +1,4 @@
-package workflowTimonLogin
+package navigate.tasks
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -20,19 +20,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import cucumber.api.java.en.And
 import internal.GlobalVariable
+import navigate.interactions.CommercialToPresaleInteractions
 
-public class NavigateNewOportunityPresaleToComercialTasks {
-	
-	
-	@And("envía la nueva oportunidad de Preventa a Comercial")
-	public void send_oportunity_from_presale_to_commercial() {
-		def navigate = new NavigateNewOportunityPresaleToComercialInteractions()
-		navigate.clickOnAllOportunities()
-		navigate.clickOnChangeState()
-		navigate.clickOnSendToCommercial()
+public class CommercialToPresaleTasks {
+
+	@And ("envía la nueva oportunidad a Preventa")
+	def enviar_oportunidad_a_preventa() {
+		CommercialToPresaleInteractions navigate = new CommercialToPresaleInteractions()
+		navigate.clickOnMoveOportunity()
+		navigate.clickOnSendToPresale()
 		navigate.completeComentaryAndConfirm()
 	}
-	
-	
 }
-

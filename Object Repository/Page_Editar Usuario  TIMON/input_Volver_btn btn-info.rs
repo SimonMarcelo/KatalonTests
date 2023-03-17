@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Volver_btn btn-info</name>
+   <tag></tag>
+   <elementGuidId>4108e6a7-d126-4cb8-913b-115f6456b0b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Guardar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d5c5771a-b1f9-49ab-803a-9d1de2993e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>330099dd-3e27-43f9-9848-52fb38e88b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Guardar</value>
+      <webElementGuid>d746597d-3189-4f2c-866c-d308816b5aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info</value>
+      <webElementGuid>2bcad98c-97db-4900-b284-1705cae74fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;nav-md&quot;]/div[@class=&quot;container body&quot;]/div[@class=&quot;main_container&quot;]/div[@class=&quot;right_col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/div[@class=&quot;x_panel&quot;]/div[@class=&quot;x_content&quot;]/form[1]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;btn btn-info&quot;]</value>
+      <webElementGuid>552820f5-247e-4e03-9c4c-58080e26f766</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Guardar']</value>
+      <webElementGuid>d321d867-cb2b-46b8-b2ae-4ecb901cb010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>d554bc62-d256-46a3-8f86-7e40530a4bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>f20aea6b-fd09-4b8b-bbf9-0eb4910b49df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

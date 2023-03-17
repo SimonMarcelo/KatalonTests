@@ -1,4 +1,4 @@
-package workflowTimonLogin
+package navigate
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -23,12 +23,12 @@ import internal.GlobalVariable
 
 import java.util.Properties
 
-import navigate.NavigateTo
 import util.GetPropertiesJava
+import util.NavigateTo
 
 public class NavigateToWorkflowPage {
 
-	String url = new GetPropertiesJava().getFileProperties()
+	String url = new GetPropertiesJava().getFileProperties("Workflow_URL")
 
 	@Given("que el usuario ingresa al sitio web")
 	public void open_browser_and_navigate_to_url(){

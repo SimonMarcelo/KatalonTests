@@ -21,6 +21,7 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 import internal.GlobalVariable
+import util.NavigateTo
 
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.WebDriver
@@ -43,7 +44,6 @@ import cucumber.api.java.en.And
 import cucumber.api.java.en.Given
 import cucumber.api.java.en.Then
 import cucumber.api.java.en.When
-import navigate.NavigateTo
 
 public class LoginSteps {
 

@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "D5E0AB9B2B8624737C339F510521F371",
+  "keywordFileContentHash": "D465253E1EB2F492AF9469952F071DEE",
   "keywordClasses": [
     {
       "name": "navigate.NavigateAddOportunityInteractions",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

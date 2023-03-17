@@ -1,4 +1,4 @@
-package workflowTimonLogin
+package navigate.interactions
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -21,7 +21,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-public class NavigateAddOportunityInteractions {
+public class AddOportunityInteractions {
 
 	def clickOnCreateNewOportunity() {
 		WebUI.click(findTestObject('Object Repository/Page_Listado de Oportunidades  TIMON/a_Crear'))

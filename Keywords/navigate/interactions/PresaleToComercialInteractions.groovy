@@ -1,4 +1,4 @@
-package workflowTimonLogin
+package navigate
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -18,26 +18,27 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
-import cucumber.api.java.en.And
 import internal.GlobalVariable
 
-public class NavigateAddOportunityTasks {
+public class PresaleToComercialInteractions {
 
-	@And("crea una nueva oportunidad completando el formulario correspondiente")
-	public void create_a_new_oportunity_() {
-		NavigateAddOportunityInteractions navigate = new NavigateAddOportunityInteractions()
+	def clickOnAllOportunities() {
+		WebUI.click(findTestObject('Object Repository/Page_Listado de Oportunidades  TIMON/small'))
+	}
 
-		navigate.clickOnCreateNewOportunity()
-		navigate.selectTypeOfOportunity()
-		navigate.selectRelationatedOportunity()
-		navigate.selectCountry()
-		navigate.selectCurrency()
-		navigate.selectCustomer()
-		navigate.completeDescription()
-		navigate.setElapsedTime()
-		navigate.selectServiceType()
-		navigate.selectPriority()
-		navigate.completeDetail()
-		navigate.clickOnCreate()
+	def clickOnChangeState() {
+		WebUI.click(findTestObject('Object Repository/Page_Listado de Oportunidades  TIMON/i_Simon, Marcelo_fas fa-arrow-alt-circle-right_1'))
+	}
+
+	def clickOnSendToCommercial() {
+		WebUI.waitForElementVisible(findTestObject('Page_Cambiar estado  TIMON/button_Comercial'), 4)
+		//WebUI.click(findTestObject('Object Repository/Page_Cambiar Estado  TIMON/div_Tipo Oportunidad                       _2055a9'))
+		WebUI.click(findTestObject('Object Repository/Page_Cambiar Estado  TIMON/button_Comercial'))
+	}
+
+	def completeComentaryAndConfirm() {
+		WebUI.setText(findTestObject('Object Repository/Page_Cambiar Estado  TIMON/input_Comentario_comentario'), 'Comentario para Comercial')
+		WebUI.click(findTestObject('Object Repository/Page_Cambiar Estado  TIMON/input_Cerrar_ConfirmarComercial'))
 	}
 }
+

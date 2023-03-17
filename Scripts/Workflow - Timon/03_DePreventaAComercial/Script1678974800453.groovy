@@ -27,7 +27,7 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Inicia sesin 
     4)
 
 WebUI.setText(findTestObject('Object Repository/Page_Inicia sesin Cuentas de Google/input_ecosistemasinfo.com_identifier'), 
-    'msimon@ecosistemas.com.ar')
+    'ecosistemas.prueba@gmail.com')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Inicia sesin Cuentas de Google/input_ecosistemasinfo.com_identifier'), 
     Keys.chord(Keys.ENTER))
@@ -36,7 +36,7 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Inicia sesin 
     4)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Inicia sesin Cuentas de Google/input_Se han producido demasiados intentos _9b645a'), 
-    'xeCmpPM2QBmDTlt+zppesg==')
+    'cavWDAa0EbnZjXBQ12k5kg==')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Inicia sesin Cuentas de Google/input_Se han producido demasiados intentos _9b645a'), 
     Keys.chord(Keys.ENTER))

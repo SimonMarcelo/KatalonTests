@@ -17,9 +17,6 @@ Característica: Flujo de trabajo de oportunidades
 
 
 
-
-
-
   Esquema del escenario: Nueva Oportunidad a Preventa 
 
     Cuando el usuario ingresa sus credenciales de manera correcta <usuario> y <contraseña>
@@ -30,6 +27,16 @@ Característica: Flujo de trabajo de oportunidades
       |            usuario           |         contraseña       |
       | ecosistemas.prueba@gmail.com | cavWDAa0EbnZjXBQ12k5kg== |
       
+      
+  Esquema del escenario: Cambiar usuario de Comercial a Preventa
+  
+  	Cuando el usuario ingresa sus credenciales de manera correcta <usuario> y <contraseña>
+    Entonces se visualiza que ingresó correctamente a la plataforma
+    Y modifica el tipo de usuario a Preventa
+  	
+    Ejemplos: 
+      |            usuario           |         contraseña       |
+      | ecosistemas.prueba@gmail.com | cavWDAa0EbnZjXBQ12k5kg== |
       
   Esquema del escenario: Nueva Oportunidad de Preventa a Comercial
   	Cuando el usuario ingresa sus credenciales de manera correcta <usuario> y <contraseña>

@@ -55,7 +55,7 @@ WebUI.click(findTestObject('Object Repository/Page_Listado de usuarios  TIMON/a_
 WebUI.click(findTestObject('Object Repository/Page_Listado de usuarios  TIMON/i_Si_fas fa-pencil-alt'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Editar Usuario  TIMON/select_SeleccioneComercialPreventaOperacion_d80c01'), 
-    '1', true)
+    '2', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Editar Usuario  TIMON/input_Volver_btn btn-info'))
 

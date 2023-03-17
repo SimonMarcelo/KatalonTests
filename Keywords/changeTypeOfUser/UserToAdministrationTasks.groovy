@@ -1,4 +1,4 @@
-package workflowTimonLogin
+package changeTypeOfUser
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -6,7 +6,6 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
-import com.github.kklisura.cdt.protocol.types.page.Navigate
 import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.checkpoint.Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
@@ -19,19 +18,14 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
+import cucumber.api.java.en.And
 import internal.GlobalVariable
-import util.NavigateTo
 
-public class LoginTasks {
-	def LoginWithValidCredentials(username, password) {
-		LoginInteractions login = new LoginInteractions()
+public class UserToAdministrationTasks {
 
-		login.enterUsernameAndPressEnter(username)
-		login.enterPasswordAndPressEnter(password)
-	}
-
-	def correctLoginVerification() {
-		LoginInteractions login = new LoginInteractions()
-		login.verifyCorrectLogin()
+	@And ("modifica el tipo de usuario a Administración")
+	public void modificar_usuario_a_administracion() {
+		def typeUser = new ChangeTypeOfUserInteractions()
+		typeUser.cambiarUsuarioSegunSector('7')
 	}
 }

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Simon, Marcelo_fas fa-arrow-alt-circle-right</name>
+   <name>i_Si_fas fa-pencil-alt</name>
    <tag></tag>
-   <elementGuidId>1929d970-a58d-4a8c-9833-0f0b5a2ebc94</elementGuidId>
+   <elementGuidId>380ba491-7003-4b65-997f-35f6d4492aec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='oportunidades']/tbody/tr[6]/td[14]/span/a[2]/i</value>
+         <value>//table[@id='paises']/tbody/tr[22]/td[7]/span/a[2]/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,38 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>3139ef51-97cc-4bf6-b338-f1205b88d87d</webElementGuid>
+      <webElementGuid>0903ad5a-7b93-406c-ae46-eea482b3f2d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fas fa-arrow-alt-circle-right</value>
-      <webElementGuid>f5da84ee-9b3b-4366-adaf-79c4f39a6ffc</webElementGuid>
+      <value>fas fa-pencil-alt</value>
+      <webElementGuid>cefc6776-f397-4946-9fe3-375984d279f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;oportunidades&quot;)/tbody[1]/tr[6]/td[14]/span[1]/a[2]/i[@class=&quot;fas fa-arrow-alt-circle-right&quot;]</value>
-      <webElementGuid>df07436e-3471-4b39-a674-7f7f6bffb8a2</webElementGuid>
+      <value>id(&quot;paises&quot;)/tbody[1]/tr[22]/td[7]/span[1]/a[2]/i[@class=&quot;fas fa-pencil-alt&quot;]</value>
+      <webElementGuid>9a19fd4f-4b1f-4c1a-a49e-27608d934fa6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='oportunidades']/tbody/tr[6]/td[14]/span/a[2]/i</value>
-      <webElementGuid>5d6e5236-59cc-4319-90a4-36915fbd08e7</webElementGuid>
+      <value>//table[@id='paises']/tbody/tr[22]/td[7]/span/a[2]/i</value>
+      <webElementGuid>f77acbf6-cca1-4268-908a-0bdc2cf3257c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[6]/td[14]/span/a[2]/i</value>
-      <webElementGuid>19a5870c-7955-4643-b84f-98645bb29008</webElementGuid>
+      <value>//tr[22]/td[7]/span/a[2]/i</value>
+      <webElementGuid>e9f16c95-2647-4dea-ad31-bf2b3afcb1fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

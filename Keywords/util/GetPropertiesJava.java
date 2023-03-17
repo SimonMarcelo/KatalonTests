@@ -8,7 +8,7 @@ import java.lang.Exception;
 public class GetPropertiesJava {
 
 
-	public static String getFileProperties() throws IOException {
+	public static String getFileProperties(String key) throws IOException {
 
 		String props = "Include/config/Workflow.properties";
 		String url = "";
@@ -17,7 +17,7 @@ public class GetPropertiesJava {
 
 			Properties properties = new Properties();
 			properties.load(new FileReader(props));
-			url = properties.getProperty("Workflow_URL");
+			url = properties.getProperty(key);
 			System.out.println(url);
 
 		} catch (Exception e) {

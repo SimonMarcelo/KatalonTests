@@ -1,4 +1,4 @@
-package workflowTimonLogin
+package changeTypeOfUser
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -18,22 +18,15 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
+import cucumber.api.java.en.And
 import internal.GlobalVariable
+import changeTypeOfUser.ChangeTypeOfUserInteractions
 
-public class NavigateNewOportunityToPresaleInteractions {
+public class UserToPresaleTasks {
 
-	def clickOnMoveOportunity() {
-		WebUI.waitForElementPresent(findTestObject('Page_Listado de Oportunidades  TIMON/i_Simon, Marcelo_fas fa-arrow-alt-circle-right'),
-				4)
-		WebUI.click(findTestObject('Object Repository/Page_Listado de Oportunidades  TIMON/i_Simon, Marcelo_fas fa-arrow-alt-circle-right'))
-	}
-
-	def clickOnSendToPresale() {
-		WebUI.click(findTestObject('Object Repository/Page_Cambiar estado  TIMON/button_Enviar a Preventa'))
-	}
-
-	def completeComentaryAndConfirm() {
-		WebUI.setText(findTestObject('Object Repository/Page_Cambiar estado  TIMON/input_Comentario_comentario'), 'Comentario para Preventa')
-		WebUI.click(findTestObject('Object Repository/Page_Cambiar estado  TIMON/input_Cerrar_ConfirmarEnviarAPreventa'))
+	@And ("modifica el tipo de usuario a Preventa")
+	public void modificar_usuario_a_preventa() {
+		def typeUser = new ChangeTypeOfUserInteractions()
+		typeUser.cambiarUsuarioSegunSector("2")
 	}
 }
